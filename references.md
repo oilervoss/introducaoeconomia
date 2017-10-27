@@ -1,1 +1,1 @@
-* Stiglitz JE., Walsh CE. 2003. [Introdução à Macroeconomia](https://books.google.com.br/books/about/Introdu%C3%A7%C3%A3o_%C3%A0_macroeconomia.html).
+* Krugman P., Wells R. 2007. [Introdução à Economia](https://www.goodreads.com/book/show/28585311-introdu-o-economia).
