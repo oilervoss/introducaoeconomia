@@ -2,100 +2,97 @@
 title: "Capítulo 27"
 order: 3
 ---
-## Pensando como um economista
+## Oferta agragada e demanda agregada
 
-Pensamos como obter mais dinheiro trabalhando menos. Economistas examinam como pessoas, empresas e governo fazem escolhas em situações em que defrontam com escassez.
+Choque de demanda: grande depressão, deflação, queda no nível de preços agregado. Crise de confiança que levou empresas e consumidores a gastarem menos.
 
-### O modelo básico de concorrência
+Choque de oferta: crise dos 70, estagflação (estagnação com inflação e desemprego). Causada por eventos no Oriente Médio ue levaram a alta de preços do petróleo.
 
-As empresas concorrem entre si por clientes. Os consumidores também concorrem entre si visto que há um número limitado de bens.
+### Oferta agregada
 
-O modelo básico de concorrência perfeita supõe que os consumidores sejam racionais, que as empresas sejam maximizadoras de lucros e que os mercados sejam altamente concorrenciais. O modelo ignora o governo.
+A curva de oferta agregada mostra a relação entre o nível de preços agregados na economia (nível geral de preços dos bens e serviços finais) e a quantidade total de bens e serviços finais (produto agregado) que os produtores estão dispostos a ofertar.
 
-#### Consumidores racionais e empresas maximizadoras de lucro
+#### Curva de oferta agregada de curto prazo
 
-A escassez implica que empresas e pessoas se deparam com escolhas de trade-offs.
+Há uma relação postiva entre nível de preços agregado e quantidade de produto agregado ofertada. Um aumento no nível de preços agregado leva a um aumento na quantidade agregada de produto, tudo o mais mantido constante, como os custos de produção. Isso no curto prazo.
 
-A hipótese da racionalidade dos consumidores significa que as decisões são tomadas no interesse próprio, sem juízo de valor. A hipótese da racionalidade das empresas significa que operam para maximizar seus lucros
+#### Deslocamento na curva de oferta agregada de curto prazo
 
-#### Mercados competitivos
+Mudanças nos custos de produção influencia os lucros por unidade de produto.
 
-Na concorrência perfeita, se uma empresa eleva seu preço em relação às demais, perderia todas suas vendas. Desta forma são tomadoras de preços, ou seja, não influenciam o preço de mercado mas tão somente o aceitam.
+1. Mudanças nos preços de commodities
+2. Mudanças nos salários nominais (normalmente de reação lenta à demanda de trabalhadores)
+3. Mudanças na produtividade (tecnologia vs regulação)
 
-Em contraparte, os consumidores não conseguem pagar menos do que o preço vigente, porque eles concorrem entre si por um número finito de bens disponíveis, e as empresas sabem que haverão compradores para todo seu estoque dispostos a pagar o preço estabelecido.
+#### Curva de oferta agregada de longo prazo
 
-#### Eficiência e distribuição no modelo básico de concorrência perfeita
+Salários são rígidos no curto prazo mas são renegociados no longo prazo.
 
-O modelo básico de concorrência perfeita implica que a economia será eficiente. Os recursos escassos não serão despediçados. Não se produz mais de um bem sem produzir menos de outro. Uma pessoa não melhora de situação sem outra piorar.
+O nível de preços agregado não tem efeito sobre a quantidade de produto agregado ofertada, pois no longo prazo, mudanças proporcionais ocorrem em todos os os insumos, inclusive salários.
 
-#### O modelo básico de concorrência perfeita como padrão de referência
+#### Do curto prazo ao longo prazo
 
-Este modelo não é uma representação perfeita da realidade mas é utilizado como um padrão conveniente levando a conclusões adequadas quando devidamente ajustadas.
+A economia está um de dois estados:
 
-### Incentivos e informação: preços, direitos de propriedade e lucros
+- simultaneamente na curva de oferta agregada de curto e longo prazo
+- na curva de curto prazo e fora do longo prazo: a curva de curto prazo se deslocará até que ambas se cruzem, onde o produto agregado efetivo é igual ao produto potencial.
 
-As economias de mercado oferecem informação e incentivo através dos:
-- Preços: passam informações sobre a escassez relativa dos bens aos consumidores que ajustam seu consumo. Por outro lado, passam informações às empresas de como as pessoas avaliam os bens.
-- Lucro: para que este seja uma motivação eficaz, as empresas precisam ter direitos de propriedade, ao poder guardar parte deles, enquanto as famílias precisam reter parte do que ganham.
+### Demanda agregada
 
-#### Incentivos versus igualdade
+Mostra a relação entre o nível de preços agregado e a quantidade de produto agregado demandada pelas famílias, as empresas, o governo e o resto do mundo.
 
-Os incentivos trazem o custo da desigualdade ao vincular a compensação ao desempenho. Se há maiores incentivos, haverá também maiores desigualdades.
+Não tem relação com a lei de demanda individual: quando um produto aumenta de preço, só sua demanda cai, pois seu consumo é transferido para outro.
 
-Os lucros oferecem incentivos para que as empresas produzam aquilo que as pessoas desejam e os salários incentivam as pessoas a trabalhar. Os direitos de propriedade também são importantes incentivos para investir, poupar e dar o melhor uso possível aos seus ativos.
+A curva de demanda agregada considera uma mudança simultânea nos preços de todos os bens e serviços.
 
-### Racionamento
+#### Efeito riqueza
 
-**Por filas:** os bens são entregues aos mais dispostos a esperar. Exemplos são os ingressos de preço fixo e o sistema de saúde da Grã-Bretanha. Sendo custo de tempo dos trabalhadores de baixa renda menor, podem esperar mais, recebendo uma parcela desproporcional dos cuidados de saúde. É uma forma ineficiente de distribuir recursos pois o tempo perdido nas filas é um recurso desperdiçado. Em geral os mesmos objetivos são conseguidos através do sistema de preços.
+Um aumento no nível de preços agregado, reduz o poder de compra dos ativos.
 
-**Por sorteio:** nos EUA os quartos universitários e matrículas em cursos são distribuídos por sorteio. Certos direitos de mineração e radiodifusão também já o foram. É ineficiente pois recursos escassos não vão para quem tem capacidade de pagar mais, tendo portanto mais disposição de atribuir-lhe valor.
+#### Efeito taxa de juros
 
-**Por cupons:** a distribuição de bens para os indivíduos é limitada numericamente, que ainda pagarão o preço de mercado. É uma forma de impedir que os precos aumentem excessivamente. Os cupons não negociáveis provocam a mesma ineficiência da distribuição de sistemas que não consideram os preços
+Em resposta a um aumento no nível de preços agregado, o público aumenta a quantidade de dinheiro que mantém, vendendo ativos ou tomando mais emprestado. Isso reduz os fundos disponíveis para empréstimo e por isso pressiona a taxa de juros para cima que por sua vez reduz o consumo.
 
-### Conjunto de oportunidades e trade-offs
+#### Deslocamento na curva de demanda agregada
 
-Um conjunto de oportunidades é a lista de opções possíveis para realizar uma escolha e avaliar os trade-offs.
+##### Mudanças nas expectativas
 
-#### Restrições orçamentárias e temporais
+Gastos de consumo ou de investimento dependem das expectivas para com o futuro. Os gastos são baseados não só na renda atual mas na expectativa de melhor renda futura. Se há otimismo, gastos aumentam. Se há pessimismo, gastos diminuem.
 
-Restrições orçamentárias são impostas pela escassez financeira individual. Ou se compra duas televisões pequenas ou uma televisão grande.
+##### Mudanças na riqueza
 
-Restrições temporais são impostas pela escassez do tempo. O tempo de estudo é limitado pelo de trabalho e ambos pelo lazer. Ao aumentar um, os outros serão reduzidos.
+Gastos de consumo dependem do valor dos ativos das famílias. Se os ativos caem, a demanda agregada cai
 
-#### Curva de possibilidades de produção
+##### Mudanças no estoque de capital físico
 
-As restrições orçamentárias individuais são expressas por uma linha reta enquanto a de produção é uma curva convexa. Os trade-offs da sociedade não são fixos como os individuais. Isto ocorre porque cada aumento na produção tráz dificuldades adicionais.
+Empresas gastam menos com investimento em capital físico a medida que adiquirem mais.
 
-A curva reflete que para se aumentar a produção de determinado bem, recursos serão deslocados da produção de outro.
+##### Políticas governamentais e demanda agregada
 
-#### Ineficiências: quando se está fora da curva de possibilidade de produção
+###### Política fiscal
 
-Se a economia opera abaixo da curva de possibilidades de produção, poderia-se ter mais de todos os bens. Se a busca pelo bem A é maior do que o bem B, a maior produção de B não justifica a redução de A. Há também ineficiência quando recursos ficam ociosos, como em recessões, seja terra, trabalho ou bens de produção.
+O efeito das compras governamentais sobre a curva de demanda agregada é direto. Ao contrário, mudanças nos impostos influenciam a renda disponível.
 
-### Custos
+###### Política monetária
 
-Se a empresa, pessoa ou sociedade está operando sobre a curva, então o custo de uma unidade a mais de um bem é o quanto você tem que abrir mão de outro. Trade-offs são necessários porque os recursos são escassos.
+Quando os bancos centrais aumentam a quantidade de dinheiro em circulação, as pessoas têm mais dinheiro levando a tomar menos emprestado e a disponibilizar mais para ser emprestado, o que pressiona a taxa de juros para baixo, aumenta os gastos de investimento e de consumo.
 
-#### Custos de oportunidade
+#### O multiplicador
 
-Aplicar um recurso em algo significa não poder utilizá-lo em outra coisa. Uma empresa que deixa de utilizar um equipamento está deixando de ganhar com ele. É como se pagasse pelo privilégio de manté-lo acessível.
+Propensão marginal a consumir é igual à variação no gasto de consumo relacionada com a mudança na renda disponível. Ou seja, o quanto uma mudança na renda disponível influenciará o gasto no consumo.
 
-#### Custos afundados
+$$MPC=\frac{\Delta GastoDeConsumo}{\Delta RendaDisponível}$$
 
-É o valor investido que não traz benefício. Como a compra de um produto que passa a ser vendido mais barato em seguida.
+Propensão marginal a poupar é a porção restante
 
-#### Custos marginais
+$$MPS=1-MPC$$
 
-São os custos de se fazer ou adquirir mais do que se já o faz.
+A mudança autônoma no gasto agregado é o aumento ou queda inicial no gasto agregado antes do PIB real alterar.
 
-### Comércio e troca
+O multiplicador, que indica o múltiplo que o PIB aumentará a partir do aumento no gasto de investimento, é obtido da relação entre a mudança autônoma no gasto agregado (AAS) e a mudança total no PIB real (Y).
 
-A troca voluntária é benéfica a todos envolvidos, caso contrário, se houvesse prejuízo para uma das partes, não ocorreria.
+$$Mult=\frac{1}{1-MPC}=\frac{\Delta Y}{\Delta AAS}$$
 
-#### "Decepção" com a troca
+### Política Macroeconômica
 
-A troca voluntária não significa que ambas partes saírão necessariamente felizes com os resultados.
-
-#### Relações econômicas como trocas
-
-As pessoas trocam seu tempo presente e passado (investido em capacitação) por dinheiro. Então o trocam por bens. As empresas trocam os bens por dinheiro e este por mão-de-obra.
+A economia é autocorretiva no longo prazo, que se acredita ser uma década ou mais. Políticas governamentais são relevantes para reduzir a severidade da recessão e controlar expansões excessivamente rápidas.
