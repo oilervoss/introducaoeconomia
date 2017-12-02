@@ -1,6 +1,6 @@
 ---
 title: "Capítulo 32"
-order: 32
+order: 5
 ---
 ## Mercado de trabalho, desemprego e inflação
 

@@ -1,6 +1,6 @@
 ---
 title: "Capítulo 26"
-order: 26
+order: 2
 ---
 ## Poupanças, gastos de investimento e sistema financeiro
 

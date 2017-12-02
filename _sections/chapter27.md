@@ -1,6 +1,6 @@
 ---
 title: "Capítulo 27"
-order: 27
+order: 3
 ---
 ## Oferta agragada e demanda agregada
 

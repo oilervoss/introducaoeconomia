@@ -1,6 +1,6 @@
 ---
 title: "Capítulo 33"
-order: 33
+order: 6
 ---
 ## Inflação, desinflação e deflação
 
